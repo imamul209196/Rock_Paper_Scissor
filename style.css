@@ -15,8 +15,8 @@ body{
   text-align: center;
   align-items: center;
   display: flex;
-  padding-right: 80px;
-  padding-left: 70px;
+  padding-right: 87px;
+  padding-left: 91px;
   padding-bottom: 60px;
   width: 130px;
   height: 130px;
@@ -27,6 +27,7 @@ body{
 }
 .you{
   font-size: 30px;
+  margin-right: 58px;
 }
 
 .hello3{
